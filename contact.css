@@ -1,0 +1,36 @@
+h2 {
+    text-align: center;
+    font-style:bold;
+    font-size:32px;
+    text-decoration:underline;
+    text-emphasis-color:rgb(17, 31, 233);
+text-decoration-color: blue;
+}
+h2:hover{
+    transform:translate(10px,10px);
+}  
+div {
+    text-align:center;
+}
+form div{
+    background-color:rgb(208, 243, 140);}
+label{
+    font-style: italic;
+    font: size 16px;
+}
+button{
+    color: rgb(219, 228, 236);
+    background-color: rgb(22, 195, 234);
+}
+input{
+    padding: 10px 30px;
+    margin: 10px 10;
+    border-color: red;
+    border-radius: 4px;
+    cursor:pointer;
+  }
+     form button:hover{
+        background-color: rgb(192, 125, 43);
+
+    }
+

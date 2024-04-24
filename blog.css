@@ -1,0 +1,42 @@
+h2 {
+    color:red;
+}
+nav{ 
+    background:yellow;
+    text-align: center;
+    padding: 10px;
+}
+li {
+    display:inline;
+    margin: 20px;
+}
+header { 
+    text-align: center;
+}
+header:hover{
+    transform:scale(2);
+    
+
+}
+footer {
+    text-align: center;
+color: blue;
+ background-color: blanchedalmond;}
+ 
+ footer p:hover{
+    transform: rotate(50deg);
+ }
+ div {
+    text-align: justify;
+    color: blueviolet;
+    
+ }
+ div h5{
+    text-align: center;
+ }
+ div H5:hover {
+    transform:translate(0px,60px);
+ }
+ nav ul:hover {
+transform:scale(3);
+}
